@@ -1,8 +1,10 @@
 📌 Project Title: Car Rental Booking System
+
 📝 Project Description:
 The Car Rental Booking System is a desktop-based Java application developed using Java Swing for the graphical user interface. This system streamlines the process of renting cars by providing an efficient, user-friendly platform for both customers and administrators. It is designed to support essential functions such as car browsing, booking, registration, and management of users and vehicle data.
 
 🎯 Key Features:
+
 👤 User Side:
 User Registration & Login: New customers can register their accounts and securely log in to the system.
 
